@@ -1,0 +1,76 @@
+button {
+    width: 35px; border: none;  background: none; 
+}
+
+.man {
+    margin-right: 5px; margin-left: 600px;
+}
+
+.cart  {
+    margin-right: 0%;
+}
+.logo-img {
+    width: 200px; padding-right: 20px; padding-left: 750px; padding-top: 20px;
+}
+
+a {
+    text-decoration: none; 
+}
+
+#school {
+    padding-left: 15px; padding-right: 20px;
+}
+
+#women {
+    padding-left: 15px;
+}
+
+#man {
+    padding-left: 15px;
+}
+
+#girls {
+    padding-left: 15px;
+}
+
+#boys {
+    padding-left: 15px;
+}
+
+#baby {
+    padding-left: 700px;
+}
+
+.categories {
+    padding-top: 30px;
+}
+
+.big-pic {
+    padding-top: 30px; padding-left: 70px;
+}
+
+ul {
+list-style: none;
+}
+footer {
+    background-color: rgb(229, 246, 229);
+    text-align: center;
+    margin-bottom: 0%;
+}
+
+header {
+    background-color: rgb(229, 246, 229);
+    position: sticky;top: 0px;
+    
+}
+
+.list-footer {
+    display: flex ;
+    flex-direction: row;
+    justify-content: right;
+    margin-right: 100px;
+}
+
+.form-footer {
+margin-bottom: 200px;
+}

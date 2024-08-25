@@ -1,0 +1,19 @@
+.banner-images {
+margin-top: 50px;
+margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+img {
+    max-width: 100%;
+}
+
+header {
+    position: sticky; top: 0px;
+}
+
+body {
+    
+}
